@@ -5,5 +5,6 @@ This folder contains basic Python programs such as:
 - Keywords
 - Variables
 - Data Types
+- Operators
 - Input and Output
 - Type Conversion
