@@ -14,4 +14,4 @@ This folder contains basic Python programs such as:
 - Packages
 - File Handling
 - Exception Handling
-- Object Oriented Programming(OOPS)
+- Object Oriented Programming(OOP)
