@@ -7,4 +7,11 @@ This folder contains basic Python programs such as:
 - Data Types
 - Operators
 - Input and Output
-- Type Conversion
+- Type Casting
+- Flow Control
+- Functions
+- Modules
+- Packages
+- File Handling
+- Exception Handling
+- Object Oriented Programming(OOPS)
