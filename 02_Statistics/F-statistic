@@ -1,0 +1,17 @@
+from scipy.stats import f_oneway
+
+# Three groups of data
+group1 = [10, 12, 14, 16]
+group2 = [20, 22, 24, 26]
+group3 = [30, 32, 34, 36]
+
+# Perform one-way ANOVA
+f_stat, p_value = f_oneway(group1, group2, group3)
+
+print("F-statistic:", f_stat)
+print("P-value:", p_value)
+
+if p_value < 0.05:
+    print("Reject Null Hypothesis")
+else:
+    print("Fail to Reject Null Hypothesis")
